@@ -178,7 +178,6 @@ GEM
       ffi (~> 1.0)
     rdoc (6.5.0)
       psych (>= 4.0.0)
-    redis (4.8.1)
     regexp_parser (2.8.1)
     reline (0.3.8)
       io-console (~> 0.5)
@@ -234,7 +233,6 @@ DEPENDENCIES
   jbuilder
   puma (~> 5.0)
   rails (~> 7.0.8)
-  redis (~> 4.0)
   selenium-webdriver
   sprockets-rails
   sqlite3 (~> 1.4)
